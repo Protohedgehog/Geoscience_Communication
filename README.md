@@ -1,4 +1,4 @@
-# Geoscience_Communication
+# Geoscience Communication
 
 This repo is for hosting of materials relevant to the journal, [Geoscience Communication](https://www.geoscience-communication.net/). 
 
